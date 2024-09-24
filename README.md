@@ -27,6 +27,7 @@ I'm studying hard to become an **infrastructure engineer** 🏃‍♂️
 <div align=center><h3>Frameworks & Libraries</h3></div>
 <div align=center>
   <img src="https://img.shields.io/badge/junit5-25A162.svg?style=flat&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JDK17-DC0D15.svg?style=flat&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=flat&logo=hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-007396.svg?style=flat&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/apachemaven-C71A36.svg?style=flat&logo=apachemaven&logoColor=white"/>
