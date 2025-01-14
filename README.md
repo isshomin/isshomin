@@ -66,3 +66,4 @@ I'm studying hard to become an **infrastructure engineer** 🏃‍♂️
 # Portfolio 🎨
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isshomin&repo=My_Art_Compilation&cache_seconds=3600)](https://github.com/isshomin/My_Art_Compilation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isshomin&repo=algorithm_practice&cache_seconds=3600)](https://github.com/isshomin/algorithm_practice)
