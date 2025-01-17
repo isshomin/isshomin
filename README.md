@@ -1,6 +1,15 @@
 ![Header](https://github.com/user-attachments/assets/f5bb100c-d0cc-4b0e-b1f6-666188027d8e)
 
+<div align="center">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisshomin%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits">
+  </a>
+</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=isshomin&show_icons=true&theme=merko"> [![Solved.ac gnozok](http://mazassumnida.wtf/api/v2/generate_badge?boj=gnozok)](https://solved.ac/gnozok)
+
 ---
+
 # About me 🙋‍♂️
 Hello there! I'm sangmin
 <br/>
